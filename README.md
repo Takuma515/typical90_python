@@ -1,6 +1,6 @@
 # 競プロ典型 90問
 
-[競プロ典型 90問](https://atcoder.jp/contests/typical90)をPythonで解いたコードをアップロードします。 
+[競プロ典型 90問](https://atcoder.jp/contests/typical90)をPythonで解いたコードをアップロードします。  
 [GitHub｜競プロ典型 90 問（kyopro_educational_90）](https://github.com/E869120/kyopro_educational_90)
 
 
