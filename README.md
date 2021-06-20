@@ -12,3 +12,5 @@
 |  [027 - Sign Up Requests(★2)](https://atcoder.jp/contests/typical90/tasks/typical90_aa)  |  set  | [editorial027](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/027.jpg) | 6/8 |
 |  [033 - Not Too Bright(★2)](https://atcoder.jp/contests/typical90/tasks/typical90_bc)  |  コーナーケース  | [editorial033](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/033.jpg) | 6/8 |
 |  [055 - Select(★2)](https://atcoder.jp/contests/typical90/tasks/typical90_bc)  |  定数倍を見積もる  | [editorial055](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/055.jpg) | 6/14 |
+|  [061 - Deck(★2)](https://atcoder.jp/contests/typical90/tasks/typical90_bi)  |  deque  | [editorial061](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/061.jpg) | 6/14 |
+|  [067 - Base 8 to 9(★2)](https://atcoder.jp/contests/typical90/tasks/typical90_bo)  |  N進法展開  | [editorial067](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/067.jpg) | 6/20 |
