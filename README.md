@@ -5,6 +5,7 @@
 
 | 問題 |  アルゴリズム  | 解説 |日付 |
 | :--: | :--: | :--: | :--: |
+|  [002 - Encyclopedia of Parentheses (★3)](https://atcoder.jp/contests/typical90/tasks/typical90_b)  |  bit全探索  | [editorial002](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/002.jpg) | 6/2 |
 |  [004 - Cross Sum (★2)](https://atcoder.jp/contests/typical90/tasks/typical90_d)  |  累積和  | [editorial004](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/004.jpg) | 6/2 |
 |  [010 - Score Sum Queries(★2)](https://atcoder.jp/contests/typical90/tasks/typical90_j)  |  累積和  | [editorial010](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/010.jpg) | 6/4 |
 |  [022 - Cubic Cake(★2)](https://atcoder.jp/contests/typical90/tasks/typical90_v)  |  最大公約数  | [editorial022](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/022.jpg) | 6/14 |
