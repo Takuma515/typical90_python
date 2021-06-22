@@ -4,7 +4,7 @@ if N%2==1:
     exit(print())
 ALL = 1 << N
 def has_bit(n, i):
-    return (n & (1 << i) > 0)
+    return (n>>i) & 1
 
 ans = []
 for n in range(ALL):
