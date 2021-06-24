@@ -9,6 +9,8 @@
 |  [004 - Cross Sum(★2)](https://atcoder.jp/contests/typical90/tasks/typical90_d)  |  累積和  | [editorial004](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/004.jpg) | 6/2 |
 |  [007 - CP Classes(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_g)  | 二分探索 | [editorial007](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/007.jpg) | 6/22 |
 |  [010 - Score Sum Queries(★2)](https://atcoder.jp/contests/typical90/tasks/typical90_j)  |  累積和  | [editorial010](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/010.jpg) | 6/4 |
+|  [014 - We Used to Sing a Song Together(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_n)  |  ソート & 貪欲法  | [editorial014](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/014.jpg) | 6/24 |
+|  [016 - Minimum Coins(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_p)  |  工夫した全探索  | [editorial016](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/016.jpg) | 6/24 |
 |  [022 - Cubic Cake(★2)](https://atcoder.jp/contests/typical90/tasks/typical90_v)  |  最大公約数  | [editorial022](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/022.jpg) | 6/14 |
 |  [024 - Select +/- One(★2)](https://atcoder.jp/contests/typical90/tasks/typical90_x)  |  パリティ  | [editorial024](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/024.jpg) | 6/6 |
 |  [027 - Sign Up Requests(★2)](https://atcoder.jp/contests/typical90/tasks/typical90_aa)  |  set  | [editorial027](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/027.jpg) | 6/8 |
