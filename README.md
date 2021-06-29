@@ -16,7 +16,7 @@
 |  [022 - Cubic Cake(★2)](https://atcoder.jp/contests/typical90/tasks/typical90_v)  |  最大公約数  | [editorial022](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/022.jpg) | 6/14 |
 |  [024 - Select +/- One(★2)](https://atcoder.jp/contests/typical90/tasks/typical90_x)  |  パリティ  | [editorial024](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/024.jpg) | 6/6 |
 |  [027 - Sign Up Requests(★2)](https://atcoder.jp/contests/typical90/tasks/typical90_aa)  |  set  | [editorial027](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/027.jpg) | 6/8 |
-|  [032 - Atcoder Ekiden(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_af)  |    | [editorial032](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/032.jpg) |  |
+|  [032 - Atcoder Ekiden(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_af)  |  順列全探索  | [editorial032](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/032.jpg) | 6/29 |
 |  [033 - Not Too Bright(★2)](https://atcoder.jp/contests/typical90/tasks/typical90_ag)  |  コーナーケース  | [editorial033](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/033.jpg) | 6/8 |
 |  [038 - Large LCM(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_al)  |    | [editorial038](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/038.jpg) |  |
 |  [044 - Shift and Swapping(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_ar)  |    | [editorial044](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/044.jpg) |  |
