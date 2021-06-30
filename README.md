@@ -19,8 +19,8 @@
 |  [032 - Atcoder Ekiden(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_af)  |  順列全探索  | [editorial032](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/032.jpg) | 6/29 |
 |  [033 - Not Too Bright(★2)](https://atcoder.jp/contests/typical90/tasks/typical90_ag)  |  コーナーケース  | [editorial033](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/033.jpg) | 6/8 |
 |  [038 - Large LCM(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_al)  |  最小公倍数  | [editorial038](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/038.jpg) | 6/29 |
-|  [044 - Shift and Swapping(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_ar)  |    | [editorial044](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/044.jpg) |  |
-|  [046 - I Love(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_at)  |    | [editorial046](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/046.jpg) |  |
+|  [044 - Shift and Swapping(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_ar)  |  クエリの処理  | [editorial044](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/044.jpg) | 6/29 |
+|  [046 - I Love(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_at)  |  modで全探索  | [editorial046](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/046.jpg) | 6/30 |
 |  [048 - I will not drop out(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_av)  |    | [editorial048](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/048.jpg) |  |
 |  [050 - Stair Jump(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_ax)  |    | [editorial050](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/050.jpg) |  |
 |  [052 - Dice Product(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_az)  |    | [editorial052](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/052.jpg) |  |
