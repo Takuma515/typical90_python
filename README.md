@@ -21,9 +21,9 @@
 |  [038 - Large LCM(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_al)  |  最小公倍数  | [editorial038](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/038.jpg) | 6/29 |
 |  [044 - Shift and Swapping(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_ar)  |  クエリの処理  | [editorial044](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/044.jpg) | 6/29 |
 |  [046 - I Love(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_at)  |  modで全探索  | [editorial046](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/046.jpg) | 6/30 |
-|  [048 - I will not drop out(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_av)  |    | [editorial048](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/048.jpg) |  |
-|  [050 - Stair Jump(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_ax)  |    | [editorial050](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/050.jpg) |  |
-|  [052 - Dice Product(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_az)  |    | [editorial052](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/052.jpg) |  |
+|  [048 - I will not drop out(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_av)  |  貪欲法  | [editorial048](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/048.jpg) | 7/3 |
+|  [050 - Stair Jump(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_ax)  |  漸化式&DP  | [editorial050](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/050.jpg) | 7/3 |
+|  [052 - Dice Product(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_az)  |  因数分解  | [editorial052](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/052.jpg) | 7/3 |
 |  [055 - Select(★2)](https://atcoder.jp/contests/typical90/tasks/typical90_bc)  |  定数倍を見積もる  | [editorial055](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/055.jpg) | 6/14 |
 |  [061 - Deck(★2)](https://atcoder.jp/contests/typical90/tasks/typical90_bi)  |  deque  | [editorial061](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/061.jpg) | 6/14 |
 |  [064 - Uplift(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_bl)  |    | [editorial064](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/064.jpg) |  |
