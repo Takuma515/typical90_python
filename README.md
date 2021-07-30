@@ -31,3 +31,6 @@
 |  [069 - Colorful Blocks 2(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_bq)  |    | [editorial069](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/069.jpg) |  |
 |  [075 - Magic For Balls(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_bw)  |    | [editorial075](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/075.jpg) |  |
 |  [076 - Cake Cut(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_bx)  |    | [editorial076](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/076.jpg) |  |
+|  [079 - Two by Two(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_ca)  |    | [editorial079](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/079.jpg) |  |
+|  [082 - Counting Numbers(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_cd)  |    | [editorial082](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/082.jpg) |  |
+|  [084 - There are two types of characters(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_cf)  |    | [editorial084](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/084.jpg) |  |
