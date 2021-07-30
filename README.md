@@ -26,7 +26,7 @@
 |  [052 - Dice Product(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_az)  |  因数分解  | [editorial052](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/052.jpg) | 7/3 |
 |  [055 - Select(★2)](https://atcoder.jp/contests/typical90/tasks/typical90_bc)  |  定数倍を見積もる  | [editorial055](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/055.jpg) | 6/14 |
 |  [061 - Deck(★2)](https://atcoder.jp/contests/typical90/tasks/typical90_bi)  |  deque  | [editorial061](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/061.jpg) | 6/14 |
-|  [064 - Uplift(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_bl)  |    | [editorial064](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/064.jpg) |  |
+|  [064 - Uplift(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_bl)  |  階差を考える  | [editorial064](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/064.jpg) | 7/30 |
 |  [067 - Base 8 to 9(★2)](https://atcoder.jp/contests/typical90/tasks/typical90_bo)  |  N進法展開  | [editorial067](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/067.jpg) | 6/20 |
 |  [069 - Colorful Blocks 2(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_bq)  |    | [editorial069](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/069.jpg) |  |
 |  [075 - Magic For Balls(★3)](https://atcoder.jp/contests/typical90/tasks/typical90_bw)  |    | [editorial075](https://github.com/E869120/kyopro_educational_90/blob/main/editorial/075.jpg) |  |
